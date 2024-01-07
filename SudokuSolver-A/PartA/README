@@ -1,0 +1,15 @@
+OVERALL OBJECTIVE:
+  The goal of the project SudokuSolver-A is to write a program that solves inputted Sudoku 9x9 boards that contains 
+  either an empty cell or an integer from 1 to 9. 
+  The input to the program is a text file containing a collection of Sudoku boards, 
+  with one board per line. 
+  For each board that is read, the output is a printout of the board correctly filled in.
+
+PART A SPECIFICATIONS:
+  1) Initialize the board, and update conflict vectors
+  2) Print the board and the conflict vectors to the screen
+  3) Add a value to a cell, and update conflict vectors
+  4) Clear a cell, and update conflict vectors
+  5) Check to see if the board has been solved (Return true or false and print the results to the screen)
+
+I would like to thank my project partner Spandana Machavarapu for collaborating with me to comeplete this assignment.
