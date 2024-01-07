@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PartA.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\PartA.dir\\dictionary.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartA\\dictionary.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/dictionary.cpp",
+  "output": "CMakeFiles/PartA.dir/dictionary.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PartA.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\PartA.dir\\main.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartA\\main.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/main.cpp",
+  "output": "CMakeFiles/PartA.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/PartA.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\PartA.dir\\Grid.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartA\\Grid.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartA/Grid.cpp",
+  "output": "CMakeFiles/PartA.dir/Grid.cpp.obj"
+}
+]

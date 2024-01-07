@@ -1,0 +1,3 @@
+C:/Users/Natalia Wilson/Desktop/WordSearch-A/PartA/build/CMakeFiles/PartA.dir
+C:/Users/Natalia Wilson/Desktop/WordSearch-A/PartA/build/CMakeFiles/edit_cache.dir
+C:/Users/Natalia Wilson/Desktop/WordSearch-A/PartA/build/CMakeFiles/rebuild_cache.dir
