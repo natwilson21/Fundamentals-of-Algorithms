@@ -12,7 +12,7 @@ The game has the following steps:
     f) receives 1 point extra, in addition to the above, for a heart
   4) A player’s goal is to end the game with the most points
 
-PART A SPECIFICATIONS:
+PROJECT SPECIFICATIONS:
 1) Fully implement a card class that stores a single card. A card includes a value and a suit (club, diamond, heart or spade). 
   The class should at least include:
   a) a constructor
@@ -28,5 +28,15 @@ PART A SPECIFICATIONS:
   c) a shuffle() function that shuffles the cards in the deck (Use any algorithm to shuffle the cards that puts the cards in a
   random order).
 3) Include a main function that initializes a deck and prints all the cards in the deck before shuffle and after shuffle.
+4) Add a copy constructor and overloaded assignment operator to the card class.
+5) Add a destructor to the deck class to deallocate the list of cards.
+6) Add a function deal to the deck class that returns the top card in the deck. The card is also removed from the deck.
+7) Add a function replace to the deck class that is passed a card as a parameter. The card is placed on the
+  bottom of the deck. (*In this game, the card should be the one that you just flipped. The deck is the one that initially
+contains the cards that are not drawn by the player.)
+8) Write a global function playFlip that plays the game by reading instructions from the keyboard (i.e., whether or not flip the next card) 
+  and printing the results (including but not limited to the card just flipped, the player’s current score, and whether or 
+  not the game has ended) to the screen. You should print the top 24 cards and the remaining cards of the deck to the screen. 
+  Also, you should print the current hand after flipping a card to the screen.
 
 I would like to thank my project partner Spandana Machavarapu for collaborating with me to comeplete this assignment.
