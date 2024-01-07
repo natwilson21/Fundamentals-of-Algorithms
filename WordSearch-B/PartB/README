@@ -1,0 +1,21 @@
+OVERALL OBJECTIVE:
+Write a program that solves a word search puzzle. The program reads an NxN grid of letters from a file and prints out
+all of the words that can be found in the grid. Words that can be found in the array by starting from any letter and reading
+left, right, up, down, or any words that wrap around the edges of the array. Words must be at least 5 characters long.
+The list of k possible words is included in the file dictionary. 
+The goal is to find an algorithm that solves this problem that runs as quickly as possible for large n and k. 
+
+PART B SPECIFICATIONS:
+Solve the word search puzzle by using the quicksort algorithm and the heapsort algorithm to sort the words in the dictionary.
+1) Implement a member function of dictionary that sorts the words using quicksort
+2) Implement the template class heap<T> that stores objects in a heap of type vector<T>, which includes:
+  A) Functions parent(int), left(int), right(int), and getItem(int n) which returns the nth item in the heap
+  B) For a max-heap, functions initializeMaxHeap(), maxHeapify(), and buildMaxHeap()
+  C) Function heapsort()
+3) Implement a member function of dictionary that sorts the words using heapsort. Copy the unsorted words into the heap, 
+    sort the words, and then copy the words out. Then the dictionary::binarySearch function can be used to look up words.
+4) Write the global function search(int) which reads the name of the grid file from the
+    keyboard and prints out all words from the word list that can be found in the grid. The integer parameter is 
+    used to select the sorting algorithm used.
+
+I would like to thank my project partner Spandana Machavarapu for collaborating with me to comeplete this assignment.
