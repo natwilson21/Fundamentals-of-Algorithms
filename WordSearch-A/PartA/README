@@ -1,0 +1,18 @@
+OVERALL OBJECTIVE:
+Write a program that solves a word search puzzle. The program reads an NxN grid of letters from a file and prints out
+all of the words that can be found in the grid. Words that can be found in the array by starting from any letter and reading
+left, right, up, down, or any words that wrap around the edges of the array. Words must be at least 5 characters long.
+The list of k possible words is included in the file dictionary. 
+The goal is to find an algorithm that solves this problem that runs as quickly as possible for large n and k. 
+
+PART A SPECIFICATIONS:
+1) Implement a class called 'dictionary' that reads the words from the dictionary file and stores them in a vector that includes:
+  A) A function to read the words from the dictionary file
+  B) A function to print the word vector
+  C) A function that sorts the words using selectionsort
+  D) A functino to handle word lookups using binary search
+2) Implement a class called 'grid' that reads the letters in the grid from a file and stores them in a matrix.
+3) Implement a global function called 'FindMatches()' that is passed the dictionary and the grid as parameters and
+    prints out all words that can be found in the grid.
+
+I would like to thank my project partner Spandana Machavarapu for collaborating with me to comeplete this assignment.
