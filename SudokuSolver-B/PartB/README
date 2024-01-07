@@ -1,0 +1,15 @@
+OVERALL OBJECTIVE:
+  The goal of the project SudokuSolver-B is to write a program that solves inputted Sudoku 9x9 boards that contains 
+  either an empty cell or an integer from 1 to 9. 
+  The input to the program is a text file containing a collection of Sudoku boards, 
+  with one board per line. 
+  For each board that is read, the output is a printout of the board correctly filled in.
+
+PART B SPECIFICATIONS:
+  1) Complete the program that solves Sudoku puzzles by incorporating recursion
+  2) The program should read eachboard from the text, solve it, print the solution, and
+      print the number of recursive iterations needed to solve that board.
+  3) After all baords have been solved, print the average number of recursive calls needed to sovle all the boards.
+  4) Print the total number of recursive calls.
+
+I would like to thank my project partner Spandana Machavarapu for collaborating with me to comeplete this assignment.
