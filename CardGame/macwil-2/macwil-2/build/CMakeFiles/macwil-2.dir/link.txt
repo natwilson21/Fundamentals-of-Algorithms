@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\macwil-2.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\macwil-2.dir/objects.a @CMakeFiles\macwil-2.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\macwil-2.dir/objects.a -Wl,--no-whole-archive -o macwil-2.exe -Wl,--out-implib,libmacwil-2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\macwil-2.dir\linkLibs.rsp
