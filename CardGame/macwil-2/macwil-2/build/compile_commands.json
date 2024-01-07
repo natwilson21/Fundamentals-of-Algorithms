@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-2.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-2.dir\\Card.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-2\\macwil-2\\macwil-2\\Card.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/Card.cpp",
+  "output": "CMakeFiles/macwil-2.dir/Card.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-2.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-2.dir\\main.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-2\\macwil-2\\macwil-2\\main.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/main.cpp",
+  "output": "CMakeFiles/macwil-2.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-2.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-2.dir\\Deck.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-2\\macwil-2\\macwil-2\\Deck.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-2/macwil-2/macwil-2/Deck.cpp",
+  "output": "CMakeFiles/macwil-2.dir/Deck.cpp.obj"
+}
+]
