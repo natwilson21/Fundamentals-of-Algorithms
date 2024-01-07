@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-1.dir\\Code.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-1\\macwil-1\\macwil-1\\Code.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-1/macwil-1/macwil-1/Code.cpp",
+  "output": "CMakeFiles/macwil-1.dir/Code.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-1.dir\\main.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-1\\macwil-1\\macwil-1\\main.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-1/macwil-1/macwil-1/main.cpp",
+  "output": "CMakeFiles/macwil-1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-1.dir\\Mastermind.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-1\\macwil-1\\macwil-1\\Mastermind.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-1/macwil-1/macwil-1/Mastermind.cpp",
+  "output": "CMakeFiles/macwil-1.dir/Mastermind.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-1.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-1.dir\\Response.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-1\\macwil-1\\macwil-1\\Response.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-1/macwil-1/macwil-1/Response.cpp",
+  "output": "CMakeFiles/macwil-1.dir/Response.cpp.obj"
+}
+]
