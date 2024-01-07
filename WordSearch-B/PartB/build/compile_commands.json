@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-3-PartB.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-3-PartB.dir\\dictionary.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartB\\dictionary.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/dictionary.cpp",
+  "output": "CMakeFiles/macwil-3-PartB.dir/dictionary.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-3-PartB.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-3-PartB.dir\\Grid.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartB\\Grid.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/Grid.cpp",
+  "output": "CMakeFiles/macwil-3-PartB.dir/Grid.cpp.obj"
+},
+{
+  "directory": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/macwil-3-PartB.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\macwil-3-PartB.dir\\main.cpp.obj -c \"C:\\Users\\Natalia Wilson\\Desktop\\macwil-300\\PartB\\main.cpp\"",
+  "file": "C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/main.cpp",
+  "output": "CMakeFiles/macwil-3-PartB.dir/main.cpp.obj"
+}
+]

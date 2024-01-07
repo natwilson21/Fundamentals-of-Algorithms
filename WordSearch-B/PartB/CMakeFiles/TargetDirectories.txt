@@ -1,0 +1,3 @@
+C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/CMakeFiles/macwil-3-PartB.dir
+C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/CMakeFiles/edit_cache.dir
+C:/Users/Natalia Wilson/Desktop/macwil-300/PartB/CMakeFiles/rebuild_cache.dir
