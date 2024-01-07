@@ -1,0 +1,3 @@
+C:/Users/Natalia Wilson/Desktop/18-Spandana-Natalia-P4/PartB/output/CMakeFiles/PartB.dir
+C:/Users/Natalia Wilson/Desktop/18-Spandana-Natalia-P4/PartB/output/CMakeFiles/edit_cache.dir
+C:/Users/Natalia Wilson/Desktop/18-Spandana-Natalia-P4/PartB/output/CMakeFiles/rebuild_cache.dir
